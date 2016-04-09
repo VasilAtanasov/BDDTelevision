@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60327" started-at="2016-04-09T14:17:38Z" finished-at="2016-04-09T14:18:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60327" started-at="2016-04-09T14:17:38Z" finished-at="2016-04-09T14:18:39Z">
+      <class name="pages.frontend.WichTelevisionTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="setUp" is-config="true" duration-ms="6657" started-at="2016-04-09T17:17:38Z" finished-at="2016-04-09T17:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkSortByDropdown()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="checkSortByDropdown" duration-ms="602" started-at="2016-04-09T17:17:45Z" finished-at="2016-04-09T17:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSortByDropdown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="tearDown" is-config="true" duration-ms="1445" started-at="2016-04-09T17:17:46Z" finished-at="2016-04-09T17:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="setUp" is-config="true" duration-ms="5394" started-at="2016-04-09T17:17:47Z" finished-at="2016-04-09T17:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filterByBrandPhilips()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="filterByBrandPhilips" duration-ms="4386" started-at="2016-04-09T17:17:53Z" finished-at="2016-04-09T17:17:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterByBrandPhilips -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="tearDown" is-config="true" duration-ms="1250" started-at="2016-04-09T17:17:57Z" finished-at="2016-04-09T17:17:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="setUp" is-config="true" duration-ms="5574" started-at="2016-04-09T17:17:58Z" finished-at="2016-04-09T17:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToAdviceGuidesPage()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="goToAdviceGuidesPage" duration-ms="2582" started-at="2016-04-09T17:18:04Z" finished-at="2016-04-09T17:18:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToAdviceGuidesPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="tearDown" is-config="true" duration-ms="1303" started-at="2016-04-09T17:18:06Z" finished-at="2016-04-09T17:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="setUp" is-config="true" duration-ms="6368" started-at="2016-04-09T17:18:08Z" finished-at="2016-04-09T17:18:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToBestBuyPage()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="goToBestBuyPage" duration-ms="2178" started-at="2016-04-09T17:18:14Z" finished-at="2016-04-09T17:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToBestBuyPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="tearDown" is-config="true" duration-ms="1352" started-at="2016-04-09T17:18:16Z" finished-at="2016-04-09T17:18:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="setUp" is-config="true" duration-ms="6136" started-at="2016-04-09T17:18:18Z" finished-at="2016-04-09T17:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="openTvProductSummaryPage()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="openTvProductSummaryPage" duration-ms="1984" started-at="2016-04-09T17:18:24Z" finished-at="2016-04-09T17:18:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTvProductSummaryPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="tearDown" is-config="true" duration-ms="1292" started-at="2016-04-09T17:18:26Z" finished-at="2016-04-09T17:18:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="setUp" is-config="true" duration-ms="5698" started-at="2016-04-09T17:18:27Z" finished-at="2016-04-09T17:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sortByPriceLowToHigh()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="sortByPriceLowToHigh" duration-ms="4813" started-at="2016-04-09T17:18:33Z" finished-at="2016-04-09T17:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByPriceLowToHigh -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pages.frontend.WichTelevisionTest@2a2d45ba]" name="tearDown" is-config="true" duration-ms="1286" started-at="2016-04-09T17:18:38Z" finished-at="2016-04-09T17:18:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.frontend.WichTelevisionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
